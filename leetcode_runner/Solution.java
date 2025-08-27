@@ -7,5 +7,6 @@ public class Solution {
   static Logger logger = new Logger();
 
   public static void main(String[] args) {
+    System.out.println("a");
   }
 }
