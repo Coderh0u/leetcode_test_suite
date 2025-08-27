@@ -1,6 +1,4 @@
 
-import main.java.lc.ds.ListNode;
-import main.java.lc.ds.TreeNode;
 import main.java.lc.util.Builder;
 import main.java.lc.util.Logger;
 
